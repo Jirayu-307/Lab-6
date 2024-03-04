@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "tree",
+  "identifier": "texture:30285-3013151d-1c4f-4d68-953d-fec53e238616",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "4baf3e6c73a09cf4f1486728e13b1406",
+  "assetLocator": "textures/tree.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 222,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 125,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "4baf3e6c73a09cf4f1486728e13b1406",
+      "colorCount": 7638,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.494202812547493,
+      "pixelsHigh": 222,
+      "pixelsWide": 125
+    }
+  ]
+}
